@@ -1,2 +1,2 @@
 # hello-world
-silly rabbit, trix are for kids
+super silly skeletons
